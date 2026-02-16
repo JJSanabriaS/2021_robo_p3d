@@ -1,4 +1,7 @@
-Robot movement simulation
+# Robot movement simulation
+
+***********************************
+
 development in python, requerements coppelia, matlab and hardware
 
 client from Brazil\
