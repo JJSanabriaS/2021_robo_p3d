@@ -1,8 +1,8 @@
 development in python, requerements coppelia, matlab
 
-client from Brazil
-matlab,coppelia
-library face_recognition, opencv
+client from Brazil\
+matlab,coppelia\
+library face_recognition, opencv \
 development time 2 week
 
 |   |  |
